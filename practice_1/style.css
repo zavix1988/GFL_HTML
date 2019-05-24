@@ -1,0 +1,23 @@
+table {
+	width: 50%;
+}
+thead{
+	text-align: left;
+}
+tbody {
+	text-align: center;
+}
+tbody td:nth-child(1){
+	font-weight: bold;
+	text-align: right;
+}
+
+.border {
+	border-width: 1px;
+	border-style: solid;
+	border-collapse: collapse;
+}
+tfoot {
+	text-align: right;
+	font-weight: bold;
+}
